@@ -16,7 +16,7 @@ namespace MvcApplication1.Controllers
     [Authorize]
     [InitializeSimpleMembership]
     public class AccountController : Controller
-    {
+    {  
         //
         // GET: /Account/Login
 
